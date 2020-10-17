@@ -1,0 +1,19 @@
+h1{
+    display: flex;
+    background-color: salmon;
+    color:rebeccapurple;
+    text-align:center;
+}
+h2{
+    display: flex;
+    background-color: yellow;
+    color:red;
+}
+.test{
+    display: flex;
+    background-color: springgreen;
+}
+.grid{
+    display: flex;
+    background-color:royalblue;
+}
